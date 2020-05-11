@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1589178619 source:c:\users\coffe\documents\platzi\intro_c\juego\src\player.cpp
+	<iostream>
+	"Player.h"
+
+1589174895 c:\users\coffe\documents\platzi\intro_c\juego\include\player.h
+
+1589186525 source:c:\users\coffe\documents\platzi\intro_c\juego\main.cpp
+	<iostream>
+	"Player.h"
+	"MapCell.h"
+	"GameMap.h"
+	"enemy.h"
+
+1589162548 c:\users\coffe\documents\platzi\intro_c\juego\include\mapcell.h
+
+1589171438 source:c:\users\coffe\documents\platzi\intro_c\juego\src\mapcell.cpp
+	<iostream>
+	"MapCell.h"
+
+1589180455 c:\users\coffe\documents\platzi\intro_c\juego\include\gamemap.h
+	<iostream>
+	"MapCell.h"
+
+1589186616 source:c:\users\coffe\documents\platzi\intro_c\juego\src\gamemap.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	"GameMap.h"
+
+1589182972 source:c:\users\coffe\documents\platzi\intro_c\juego\src\enemy.cpp
+	<cstdlib>
+	"enemy.h"
+
+1589182752 c:\users\coffe\documents\platzi\intro_c\juego\include\enemy.h
+	"Player.h"
+
